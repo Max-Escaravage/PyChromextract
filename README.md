@@ -11,4 +11,4 @@ Extract and dispay passwords: python3 chromextract.py --passwords
 
 Extract and display cookies: python3 chromextract.py --cookies
 
-Delete stored passwords: python3 chromextract.py --delete
+Delete stored passwords (Requires exiting Chrome): python3 chromextract.py --delete
