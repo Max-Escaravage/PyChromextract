@@ -3,7 +3,7 @@ Python script for extracting and deleting information stored within the Chrome B
 
 Running this script requires two Python libraries:
 
-pip3 install pycryptodome
+pip3 install pycryptodomex
 
 pip3 install pypiwin32
 
